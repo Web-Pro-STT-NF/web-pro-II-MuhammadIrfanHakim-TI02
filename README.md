@@ -3,7 +3,7 @@ this repo contain practice and praktikum
 
 Nama: Muhammad Irfan Hakim,
 NIM: 0110221060,
-kelas TI02 
+kelas: TI02 
 
 Asdos: fiki alamsyah,
 php menggunakan framework Codeigneter 4
